@@ -20,7 +20,7 @@ The project aimed to support Olist in gaining deeper insights into their e-comme
 
 ## Tools used
 
-The following tools were used:
+The following tools were utilized during the course of the analysis:
 
 - SQL
 - Power Query
