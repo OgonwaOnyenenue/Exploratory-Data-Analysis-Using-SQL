@@ -86,7 +86,7 @@ costs, and how can the company optimize its marketing strategy to increase ROI?
 14. Which geolocations have high customer density? Calculate customer retention rate according to
 geolocations.
 
-The full set of SQL queries for the analysis can be found [here](exploratory_analysis.md) [here](exploratory_Analysis.md)
+The full set of SQL queries for the analysis can be found [here](exploratory_Analysis.md)
 
 ## Data Visualization
 
