@@ -140,3 +140,12 @@ Based on the insights derived from the analysis, the following possible recommen
 7. **Maintaining Customer Satisfaction:** Given the low order cancellation rate indicating high customer satisfaction, continue efforts to maintain or improve customer satisfaction levels. This might involve providing excellent customer service, quick issue resolution, and enhancing overall user experience on the platform.
 
 Implementing these recommendations while constantly analyzing and adapting strategies based on ongoing data and market trends can significantly contribute to Olist's growth and success.
+
+## References
+- https://www.hotjar.com/ecommerce/analytics/metrics/
+- https://corporatefinanceinstitute.com/resources/valuation/average-order-value-aov/
+- https://thegood.com/insights/ecommerce-metrics/
+- https://www.freepik.com/ai/image-editor
+
+**Thank you for reading through my work!**
+  
