@@ -115,7 +115,7 @@ The following insights were derived from the analysis:
 
 7. The best-selling product categories on Olist include bed_bath_table, health_beauty, computers_accessories, and furniture_decor, which saw significant sales growth from 2016 to 2018.
 
-8. Credit cards are the most popular payment method, used by 74% of customers. Boleto is the second most used, while debit cards are the least preferred.
+8. Credit cards are the most popular payment method. Boleto is the second most used, while debit cards are the least preferred.
 
 9. Categories like fixed_telephony, drinks, and signaling_and_security have the highest profit margins.
 
